@@ -2,8 +2,8 @@
 ### Aim:
 To creat a scene of moving Bullockcart.
 
-### Developed By: D.Amarnath Reddy
-### Register No: 212221240012.
+#### Developed By: D.Amarnath Reddy
+#### Register No: 212221240012.
 ## Procedure
 1.Start the process by creating a rectanlge and extruding it.
 
